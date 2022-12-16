@@ -1,0 +1,6 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "music-header": "/components/MusicHeader/MusicHeader"
+  }
+}
